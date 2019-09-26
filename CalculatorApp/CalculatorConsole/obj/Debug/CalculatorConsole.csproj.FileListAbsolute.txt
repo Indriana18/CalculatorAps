@@ -1,0 +1,7 @@
+E:\Kuliah\semester 3\pemrograman lanjut\CalculatorApp\CalculatorConsole\bin\Debug\CalculatorConsole.exe.config
+E:\Kuliah\semester 3\pemrograman lanjut\CalculatorApp\CalculatorConsole\bin\Debug\CalculatorConsole.exe
+E:\Kuliah\semester 3\pemrograman lanjut\CalculatorApp\CalculatorConsole\bin\Debug\CalculatorConsole.pdb
+E:\Kuliah\semester 3\pemrograman lanjut\CalculatorApp\CalculatorConsole\obj\Debug\CalculatorConsole.csprojAssemblyReference.cache
+E:\Kuliah\semester 3\pemrograman lanjut\CalculatorApp\CalculatorConsole\obj\Debug\CalculatorConsole.csproj.CoreCompileInputs.cache
+E:\Kuliah\semester 3\pemrograman lanjut\CalculatorApp\CalculatorConsole\obj\Debug\CalculatorConsole.exe
+E:\Kuliah\semester 3\pemrograman lanjut\CalculatorApp\CalculatorConsole\obj\Debug\CalculatorConsole.pdb
